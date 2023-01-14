@@ -1,5 +1,6 @@
 {
-  "name": "simpson",
+  "name": "Comic",
+  "homepage": "https://hugoenriqueayalaalarcon.github.io/Comic",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
