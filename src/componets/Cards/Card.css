@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    color: rgb(243, 243, 252);
+    font-weight: 700;
+    font-size: medium;
+}
+body{
+    background-color: black;
+}
+.contenedor-img{
+    width: 350px;
+    height: 500px;
+    overflow: hidden;
+    box-shadow: 5px 5px 10px 5px rgb(9, 0, 128);
+    border-radius: 5rem;
+}
+.container-main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1rem;
+    overflow: hidden;
+}
+
+.container-powerstats{
+    max-width: 350px;
+    padding: 0.5em;
+}
+.container-Appearance{
+    max-width: 400px;
+    padding: 0.5em;
+}
