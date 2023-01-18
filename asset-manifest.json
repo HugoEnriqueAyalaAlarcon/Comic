@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/Comic/static/css/main.479f093f.css",
-    "main.js": "/Comic/static/js/main.f237282a.js",
+    "main.css": "/Comic/static/css/main.3c253242.css",
+    "main.js": "/Comic/static/js/main.d6037e65.js",
+    "static/media/DCComics.ttf": "/Comic/static/media/DCComics.5daff34efd1c1e672a85.ttf",
+    "static/media/FunnyKid.ttf": "/Comic/static/media/FunnyKid.5b7922f17210b64cf4a7.ttf",
+    "static/media/Mabook.ttf": "/Comic/static/media/Mabook.bc6c028b4b712f760af5.ttf",
+    "static/media/SFSlapstickComicShaded.ttf": "/Comic/static/media/SFSlapstickComicShaded.598b92f803d5b59a9cb7.ttf",
     "index.html": "/Comic/index.html",
-    "main.479f093f.css.map": "/Comic/static/css/main.479f093f.css.map",
-    "main.f237282a.js.map": "/Comic/static/js/main.f237282a.js.map"
+    "main.3c253242.css.map": "/Comic/static/css/main.3c253242.css.map",
+    "main.d6037e65.js.map": "/Comic/static/js/main.d6037e65.js.map"
   },
   "entrypoints": [
-    "static/css/main.479f093f.css",
-    "static/js/main.f237282a.js"
+    "static/css/main.3c253242.css",
+    "static/js/main.d6037e65.js"
   ]
 }
